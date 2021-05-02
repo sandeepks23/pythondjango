@@ -1,0 +1,23 @@
+.div1{
+    display: flex;
+    background-color: #5e068a;
+    color:white;
+    height: 32px;
+    padding-top: 6px;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.div2{
+    
+    padding-left: 14%;
+}
+
+.div3{
+    
+    padding-left: 38%;
+}
+
+img{
+    margin-left: 211px;
+}

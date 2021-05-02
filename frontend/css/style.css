@@ -1,0 +1,36 @@
+
+
+h1{
+    color:aqua;
+}
+
+body{
+    background-color: #03fc07;
+}
+div{
+    border:1px solid beige;
+    height: 400px;
+    width: 20%;
+    float:left;
+    
+}
+div h2{
+    font-size:medium;
+}
+#section1{
+    background-color: blue;
+    color:white;
+}
+
+#section2{
+    background-color: red;
+
+}
+
+.section3{
+    background-color: yellow;
+    color:white;
+}
+#section4{
+    background-color: green;
+}

@@ -1,0 +1,24 @@
+div{
+    border: 1px solid red;
+    
+}
+#first{
+    position: relative;
+    margin-left: 455px;
+    
+    text-decoration: line-through;
+}
+#second{
+    position: relative;
+    top: 200px;
+    left: 455px;
+}
+#third{
+    position: relative;
+    top: 400px;
+    left: 455px;
+}
+#inn{
+    position: relative;
+    left: 10px;
+}
